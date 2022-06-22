@@ -1,0 +1,47 @@
+#include <stdio.h>
+int main()
+{
+		for(int row = 1; row <= 7; row++)
+		{
+			if(row ==1)
+			{
+				printf("    *\n");
+			}
+			if(row ==1)
+			{
+				printf("   * *\n");
+			}
+			if(row ==1)
+			{
+				printf("  *   *\n");
+			}
+			if(row ==1)
+			{
+				printf("  *   *\n");
+			}
+			if(row ==1)
+			{
+				printf("  *   *\n");
+			}
+			if(row ==1)
+			{
+				printf("   * *\n");
+			}
+			if(row ==1)
+			{
+				printf("    *\n");
+			}
+		}
+
+}
+
+// !!!!RESULT!!!!
+/*
+    *
+   * *
+  *   *
+  *   *
+  *   *
+   * *
+    *
+*/
